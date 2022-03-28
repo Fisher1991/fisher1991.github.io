@@ -1,4 +1,4 @@
---
+---
 title: "Topology Learning-based Fuzzy Random Neural Network for Streaming Data Regression"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
