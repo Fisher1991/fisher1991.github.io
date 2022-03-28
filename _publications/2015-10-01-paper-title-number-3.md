@@ -1,15 +1,15 @@
----
-title: "Paper Title Number 3"
+--
+title: "Topology Learning-based Fuzzy Random Neural Network for Streaming Data Regression"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'JCR 1区，中科院1区，CCF B类，影响因子：12.029.'
+date: 2020-11-20
+venue: 'IEEE Transactions on Fuzzy Systems'
+paperurl: 'https://ieeexplore.ieee.org/document/9265257'
+citation: 'Yu H, Lu J, Zhang G. Topology learning-based fuzzy random neural network for streaming data regression[J]. IEEE Transactions on Fuzzy Systems, 2020..'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+JCR 1区，中科院1区，CCF B类，影响因子：12.029.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/9265257)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Yu H, Lu J, Zhang G. Topology learning-based fuzzy random neural network for streaming data regression[J]. IEEE Transactions on Fuzzy Systems, 2020.
