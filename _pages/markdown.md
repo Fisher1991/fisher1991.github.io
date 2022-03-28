@@ -20,12 +20,12 @@ redirect_from:
 * 电气电子工程师学会（IEEE）
 * 中国计算机协会（CCF）
 
-## Special Sessions
+## 国际会议
 
-* Session主席
+* Special Session主席
   * 会议名称：16th International Conference on Intelligent Systems and Knowledge Engineering
   * Session名称：Artificial Intelligent Methodology and System
-* Session组织者 
+* Special Session组织者 
   * 会议名称：The International Joint Conference on Neural Networks 2022
   * Session名称：Data-Driven Decision Support for Streaming Data with Uncertainties
 
