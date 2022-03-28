@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "An Online Robust Support Vector Regression for Data Streams"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'JCR 1区，中科院2区，CCF A类，影响因子：6.977'
+date: 2020-03-12
+venue: 'IEEE Transactions on Knowledge and Data Engineering'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9034023'
+citation: 'Yu H, Lu J, Zhang G. An online robust support vector regression for data streams[J]. IEEE Transactions on Knowledge and Data Engineering, 2020, 34(1): 150-163.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+JCR 1区，中科院2区，CCF A类，影响因子：6.977.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9034023)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Yu H, Lu J, Zhang G. An online robust support vector regression for data streams[J]. IEEE Transactions on Knowledge and Data Engineering, 2020, 34(1): 150-163.
