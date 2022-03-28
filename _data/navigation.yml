@@ -1,3 +1,19 @@
 # main links links
 main:
+  - title: "论文发表"
+    url: /publications/      
+        
+  - title: "项目情况"
+    url: /year-archive/
+    
+  - title: "工作经历"
+    url: /cv/
+    
+  - title: "授课情况"
+    url: /teaching/
   
+  - title: "社会服务"
+    url: /markdown/ 
+    
+  - title: "联系方式"
+    url: /portfolio/
