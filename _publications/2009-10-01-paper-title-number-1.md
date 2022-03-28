@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Online Topology Learning by a Gaussian Membership-Based Self-Organizing Incremental Neural Network"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'JCR 1区，中科院1区，CCF B，影响因子：10.451'
+date: 2019-11-13
+venue: 'IEEE Transactions on Neural Networks and Learning Systems'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8897716'
+citation: 'Yu H, Lu J, Zhang G. Online topology learning by a gaussian membership-based self-organizing incremental neural network[J]. IEEE transactions on neural networks and learning systems, 2019, 31(10): 3947-3961.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+JCR 1区，中科院1区，CCF B，影响因子：10.451
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/8897716)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Yu H, Lu J, Zhang G. Online topology learning by a gaussian membership-based self-organizing incremental neural network[J]. IEEE transactions on neural networks and learning systems, 2019, 31(10): 3947-3961.
