@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "人工智能与机器学习"
 collection: teaching
-type: "Workshop"
+type: "研究生课程"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "上海大学, 面向全校研究生"
+date: 春季学期
+location: "上海, 中国"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
