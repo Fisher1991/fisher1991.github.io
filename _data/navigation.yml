@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "论文发表"
-    url: /publications/      
+  #- title: "论文发表"
+  #  url: /publications/      
         
   - title: "项目情况"
     url: /year-archive/
