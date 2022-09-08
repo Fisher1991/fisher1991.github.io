@@ -22,10 +22,10 @@ redirect_from:
 
 ## 国际会议
 
-* Special Session主席
+* Special Session Chair
   * 会议名称：16th International Conference on Intelligent Systems and Knowledge Engineering
   * Session名称：Artificial Intelligent Methodology and System
-* Special Session组织者 
+* Special Session Organiser
   * 会议名称：The International Joint Conference on Neural Networks 2022
   * Session名称：Data-Driven Decision Support for Streaming Data with Uncertainties
 
