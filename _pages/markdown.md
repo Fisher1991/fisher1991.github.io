@@ -9,8 +9,11 @@ redirect_from:
 
 ## 期刊审稿人
 
+* Artificial Intelligence Journal
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Fuzzy Systems
+* Information Fusion
 * Knowledge-Based Systems
 * Artificial Intelligence Review
 * 等等
@@ -19,6 +22,7 @@ redirect_from:
 
 * 电气电子工程师学会（IEEE）
 * 中国计算机协会（CCF）
+* 上海市计算机学会（SCF）
 
 ## 国际会议
 
