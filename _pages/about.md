@@ -19,12 +19,12 @@ redirect_from:
 
 期刊论文列表
 ------
-1. Zhang Z, Xie S, Zhang H, et al. Zero-shot sim-to-real transfer using Siamese-Q-Based reinforcement learning[J]. Information Fusion (五年影响因子 16.1), 2025, 114: 102664.
+1. Zhang Z, Xie S, Zhang H, et al. Zero-shot sim-to-real transfer using Siamese-Q-Based reinforcement learning[J]. Information Fusion (五年影响因子 16.1，中科院1区), 2025, 114: 102664.
 2. Su H, Xie S, Yu H, et al. Improving inference via rich path information and logic rules for document-level relation extraction[J]. Knowledge and Information Systems (CCF B), 2025: 1-25. 该论文方法在第13届国际自然语言处理与中文计算会议NLPCC竞赛中，获开放测评任务3:对话级别指代消解与关系抽取任务中第一名的好成绩。
 3. Zhou X, Yu H, Yang S, et al. Learning from Orthogonal Space with Multimodal Large Models for Generalized Few-shot Segmentation[J]. ACM Transactions on Multimedia Computing, Communications and Applications (CCF B), 2025, Early Access
 4. Wang X, Yu H, Guo J, et al. Towards Fraud Detection Via Fine-Grained Classification of User Behavior[J]. IEEE Transactions on Big Data (影响因子7.5), 2024, Early Access.
 5. Yu H, Wen J, Sun Y, et al. CA-GNN: A Competence-Aware Graph Neural Network for Semi-Supervised Learning on Streaming Data[J]. IEEE Transactions on Cybernetics (影响因子 9.4，中科院1区), 2024, Early Access.
-6. Xie S, Li Y, Wang X, et al. Hierarchical relationship modeling in multi-agent reinforcement learning for mixed cooperative–competitive environments[J]. Information Fusion (五年影响因子 16.1), 2024, 108: 102318.
+6. Xie S, Li Y, Wang X, et al. Hierarchical relationship modeling in multi-agent reinforcement learning for mixed cooperative–competitive environments[J]. Information Fusion (五年影响因子 16.1，中科院1区), 2024, 108: 102318.
 7. Xiao W, Luo X, Xie S, et al. An Adaptive Meta-Reinforcement Learning Algorithm for Simulation to Reality in Dynamic Scene[J]. IEEE Transactions on Intelligent Vehicles (影响因子 14，中科院1区), 2024, Early Access.
 8. Yu H, Liu W, Zhu N, et al. IN-GFD: An interpretable graph fraud detection model for spam reviews[J]. IEEE Transactions on Artificial Intelligence, 2024, Early Access.
 9. Guo Y, Yu H, Ma L, et al. DIE-CDK: A Discriminative Information Enhancement Method with Cross-modal Domain Knowledge for Fine-grained Ship Detection[J]. IEEE Transactions on Circuits and Systems for Video Technology (影响因子 8.3，中科院1区), 2024, Early Access.
