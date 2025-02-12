@@ -14,6 +14,9 @@ redirect_from:
   * IEEE Transactions on Cybernetics
   * IEEE Transactions on Neural Networks and Learning Systems
   * IEEE Transactions on Fuzzy Systems
+  * IEEE Transactions on Knowledge and Data Engineering
+  * IEEE Transactions on Systems, Man, and Cybernetics: Systems
+  * IEEE Transactions on Artificial Intelligence 
   * Information Fusion
   * 等等
 
