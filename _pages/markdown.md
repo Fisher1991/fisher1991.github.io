@@ -46,6 +46,6 @@ redirect_from:
   * ACL
   * EMNLP
   * NAACL
-  * IJCNN Meta-reviewer
+  * IJCNN (Meta-reviewer)
   * 等等
 
