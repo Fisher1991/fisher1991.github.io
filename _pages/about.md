@@ -17,9 +17,8 @@ redirect_from:
 3. 计算智能方法研究，主要涉及模糊计算和进化计算
 4. 自然语言处理，主要涉及事件检测和知识图谱   
 
-部分论文列表
+期刊论文列表
 ======
-期刊论文：
 1. Zhang Z, Xie S, Zhang H, et al. Zero-shot sim-to-real transfer using Siamese-Q-Based reinforcement learning[J]. Information Fusion (五年影响因子 16.1), 2025, 114: 102664.
 2. Su H, Xie S, Yu H, et al. Improving inference via rich path information and logic rules for document-level relation extraction[J]. Knowledge and Information Systems (CCF B), 2025: 1-25. 该论文方法在第13届国际自然语言处理与中文计算会议NLPCC竞赛中，获开放测评任务3:对话级别指代消解与关系抽取任务中第一名的好成绩。
 3. Zhou X, Yu H, Yang S, et al. Learning from Orthogonal Space with Multimodal Large Models for Generalized Few-shot Segmentation[J]. ACM Transactions on Multimedia Computing, Communications and Applications (CCF B), 2025, Early Access
@@ -55,7 +54,9 @@ redirect_from:
 33. Yu H, Lu J, Zhang G. Continuous support vector regression for nonstationary streaming data[J]. IEEE Transactions on Cybernetics (影响因子 9.4，中科院1区), 2020, 52(5): 3592-3605.
 34. Yu H, Lu J, Zhang G. An online robust support vector regression for data streams[J]. IEEE Transactions on Knowledge and Data Engineering (CCF A), 2020, 34(1): 150-163.
 35. Yu H, Lu J, Zhang G. Online topology learning by a Gaussian membership-based self-organizing incremental neural network[J]. IEEE transactions on neural networks and learning systems (影响因子 10.2，中科院1区), 2019, 31(10): 3947-3961.
-会议论文：
+
+会议论文列表
+======
 1. Li Pengbo, Yu Hang, Luo Xiangfeng. Context-aware Graph Neural Network for Graph-based Fraud Detection with Extremely Limited Labels[C]. AAAI (CCF A), 2025.
 2. Ma Q, Yu H, Shan Y, et al. Exploiting the relationship within the unlabelled samples by set matching for generalized category discovery[C]. ICASSP (语音处理领域顶会, CCF B), IEEE, 2025.
 3. Liu Z, Yu H, Luo X. Federated Graph Anomaly Detection via Disentangled Representation Learning[C]. WWW (CCF A), 2025. 
