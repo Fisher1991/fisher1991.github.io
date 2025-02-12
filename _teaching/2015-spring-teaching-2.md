@@ -1,10 +1,10 @@
 ---
-title: "人工智能与机器学习"
+title: "孙一平"
 collection: teaching
-type: "研究生课程"
+type: "研究生"
 permalink: /teaching/2015-spring-teaching-1
-venue: "上海大学, 面向全校研究生"
-date: 2022-03-01
+venue: "锐嘉科集团有限公司, JAVA工程师"
+date: 2021-09-01
 location: "上海, 中国"
 ---
-每年春季学期
+
