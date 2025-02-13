@@ -30,7 +30,7 @@ redirect_from:
 9. Guo Y, Yu H, Ma L, et al. DIE-CDK: A Discriminative Information Enhancement Method with Cross-modal Domain Knowledge for Fine-grained Ship Detection[J]. IEEE Transactions on Circuits and Systems for Video Technology (影响因子 8.3，中科院1区), 2024, Early Access.
 10. Zhang Y, Wei X, Yu H. HD-LJP: A Hierarchical Dependency-based Legal Judgment Prediction Framework for multi-task learning[J]. Knowledge-Based Systems (影响因子 7.2，中科院1区), 2024: 112033.
 11. Guo Y, Yu H, Xie S, et al. DSCA: A Dual Semantic Correlation Alignment Method for domain adaptation object detection[J]. Pattern Recognition (影响因子 7.5，中科院1区), 2024, 150: 110329.
-12. Zhang H, Yu H, Wang X, et al. Knowledge-guided communication preference learning model for multi-agent cooperation[J]. Information Sciences (影响因子 14，中科院1区), 2024, 667: 120395.
+12. Zhang H, Yu H, Wang X, et al. Knowledge-guided communication preference learning model for multi-agent cooperation[J]. Information Sciences (CCF B，中科院1区), 2024, 667: 120395.
 13. Li J, Yu H, Zhang Z, et al. Concept drift adaptation by exploiting drift type[J]. ACM Transactions on Knowledge Discovery from Data (CCF B), 2024, 18(4): 1-22.
 14. Wen Y M, Liu X, Yu H. Adaptive tree-like neural network: Overcoming catastrophic forgetting to classify streaming data with concept drifts[J]. Knowledge-Based Systems (影响因子 7.2，中科院1区), 2024, 293: 111636.
 15. Jin W, Zhao B, Zhang Y, et al. WordTransABSA: enhancing Aspect-based Sentiment Analysis with masked language modeling for affective token prediction[J]. Expert Systems with Applications (影响因子7.5, 中科院1区), 2024, 238: 122289.
@@ -40,13 +40,13 @@ redirect_from:
 19. Wang P, Yu H, Jin N, et al. QuadCDD: A quadruple-based approach for understanding concept drift in data streams[J]. Expert Systems with Applications (影响因子7.5, 中科院1区), 2024, 238: 122114.
 20. Li P, Yu H, Luo X, et al. LGM-GNN: A local and global aware memory-based graph neural network for fraud detection[J]. IEEE Transactions on Big Data (影响因子7.5), 2023, 9(4): 1116-1127.
 21. 文益民、员喆、余航，一种新的半监督归纳迁移学习框架：Co-Transfer, 计算机研究与发展 (计算机类三大中文刊物之一), 2023, 60(7): 1603-1614.
-22. Xie S, Zhang Z, Yu H, et al. Recurrent prediction model for partially observable MDPs[J]. Information Sciences (影响因子 14，中科院1区), 2023, 620: 125-141.
+22. Xie S, Zhang Z, Yu H, et al. Recurrent prediction model for partially observable MDPs[J]. Information Sciences (CCF B，中科院1区), 2023, 620: 125-141.
 23. Tian P, Yu H. Can we improve meta-learning model in few-shot learning by aligning data distributions?[J]. Knowledge-Based Systems (影响因子7.2, 中科院1区), 2023, 277: 110800.
 24. Guo Y, Yu H, Ma L, et al. Thfe: a triple-hierarchy feature enhancement method for tiny boat detection[J]. Engineering Applications of Artificial Intelligence (影响因子7.5, 中科院1区), 2023, 123: 106271.
 25. Xia N, Yu H, Wang Y, et al. DAFS: a domain aware few shot generative model for event detection[J]. Machine Learning (CCF B), 2023, 112(3): 1011-1031.
 26. Jin W, Zhao B, Yu H, et al. Improving embedded knowledge graph multi-hop question answering by introducing relational chain reasoning[J]. Data Mining and Knowledge Discovery (CCF B), 2023, 37(1): 255-288.
 27. Gao J, Yu H, Zhang S. Joint event causality extraction using dual-channel enhanced neural network[J]. Knowledge-Based Systems (影响因子7.2, 中科院1区), 2022, 258: 109935.
-28. Yu H, Zhang Q, Liu T, et al. Meta-ADD: A meta-learning based pre-trained model for concept drift active detection[J]. Information Sciences (影响因子 14，中科院1区), 2022, 608: 996-1009.
+28. Yu H, Zhang Q, Liu T, et al. Meta-ADD: A meta-learning based pre-trained model for concept drift active detection[J]. Information Sciences (CCF B，中科院1区), 2022, 608: 996-1009.
 29. Yu H, Lu J, Liu A, et al. Real-time prediction system of train carriage load based on multi-stream fuzzy learning[J]. IEEE Transactions on Intelligent Transportation Systems (影响因子 7.9，中科院1区), 2022, 23(9): 15155-15165.
 30. Xie S, Zhang H, Yu H, et al. Et-hf: A novel information sharing model to improve multi-agent cooperation[J]. Knowledge-Based Systems (影响因子7.2, 中科院1区), 2022, 257: 109916.
 31. Yu H, Lu J, Zhang G. Morstreaming: A multioutput regression system for streaming data[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems (影响因子 8.6，中科院1区), 2021, 52(8): 4862-4874.
