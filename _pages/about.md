@@ -35,7 +35,7 @@ redirect_from:
 14. Wen Y M, Liu X, Yu H. Adaptive tree-like neural network: Overcoming catastrophic forgetting to classify streaming data with concept drifts[J]. Knowledge-Based Systems (影响因子 7.2，中科院1区), 2024, 293: 111636.
 15. Jin W, Zhao B, Zhang Y, et al. WordTransABSA: enhancing Aspect-based Sentiment Analysis with masked language modeling for affective token prediction[J]. Expert Systems with Applications (影响因子7.5, 中科院1区), 2024, 238: 122289.
 16. Yu H, Li J, Lu J, et al. Type-LDD: A Type-Driven Lite Concept Drift Detector for Data Streams[J]. IEEE Transactions on Knowledge and Data Engineering (CCF A), 2023.
-17. Jin W, Zhao B, Zhang L, et al. Back to common sense: Oxford dictionary descriptive knowledge augmentation for aspect-based sentiment analysis[J]. Information Processing & Management (影响因子 7.4，中科院1区), 2023, 60(3): 103260.
+17. Jin W, Zhao B, Zhang L, et al. Back to common sense: Oxford dictionary descriptive knowledge augmentation for aspect-based sentiment analysis[J]. Information Processing & Management (影响因子 7.4，中科院1区), 2023, 60(3): 103260. 获评2023年该期刊的年度最佳论文.
 18. Yu H, Liu W, Lu J, et al. Detecting group concept drift from multiple data streams[J]. Pattern Recognition (影响因子 7.5，中科院1区), 2023, 134: 109113.
 19. Wang P, Yu H, Jin N, et al. QuadCDD: A quadruple-based approach for understanding concept drift in data streams[J]. Expert Systems with Applications (影响因子7.5, 中科院1区), 2024, 238: 122114.
 20. Li P, Yu H, Luo X, et al. LGM-GNN: A local and global aware memory-based graph neural network for fraud detection[J]. IEEE Transactions on Big Data (影响因子7.5), 2023, 9(4): 1116-1127.
